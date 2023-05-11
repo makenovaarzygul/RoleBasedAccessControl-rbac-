@@ -1,0 +1,14 @@
+C:\Users\Arzyshka\Desktop\2курс материалы\2семестр\PIOB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\uaDB.mdf
+C:\Users\Arzyshka\Desktop\2курс материалы\2семестр\PIOB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\uaDB_log.ldf
+C:\Users\Arzyshka\Desktop\2курс материалы\2семестр\PIOB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Arzyshka\Desktop\2курс материалы\2семестр\PIOB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Arzyshka\Desktop\2курс материалы\2семестр\PIOB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Arzyshka\Desktop\2курс материалы\2семестр\PIOB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Arzyshka\Desktop\2курс материалы\2семестр\PIOB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_Add_User_Admin.resources
+C:\Users\Arzyshka\Desktop\2курс материалы\2семестр\PIOB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_login.resources
+C:\Users\Arzyshka\Desktop\2курс материалы\2семестр\PIOB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_Home.resources
+C:\Users\Arzyshka\Desktop\2курс материалы\2семестр\PIOB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Arzyshka\Desktop\2курс материалы\2семестр\PIOB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Arzyshka\Desktop\2курс материалы\2семестр\PIOB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Arzyshka\Desktop\2курс материалы\2семестр\PIOB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Arzyshka\Desktop\2курс материалы\2семестр\PIOB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
